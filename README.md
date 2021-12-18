@@ -15,7 +15,7 @@ Tenho 23 anos atualmente cursando Análises e Desenvolvimento de Sistema no IFPI
 
 
 ## Projetos:
-Projetos ainda estão por vir   :)
+Como Usar o Histograma em Data Science: https://bit.ly/3shOTqV
 
 ---
 
